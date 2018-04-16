@@ -13,4 +13,4 @@ Model | TF-Slim File | Checkpoint | Top-1 Accuracy| Top-5 Accuracy |
 [MobileNet_v2_1.0_224^*](https://arxiv.org/abs/1801.04381)|[Code](https://github.com/tensorflow/models/blob/master/research/slim/nets/mobilenet/mobilenet_v2.py)| [mobilenet_v2_1.0_224.tgz](https://storage.googleapis.com/mobilenet_v2/checkpoints/mobilenet_v2_1.0_224.tgz) | 71.9 | 91.0
 
 ##
-暂时仅显示已经实现的。代码实现中可能存在一些细节问题。
+ps:暂时仅显示已经实现的。公开模型的参数和[slim](https://github.com/tensorflow/models/tree/master/research/slim)模型并不对应，因此可能存在一些细节错误。
